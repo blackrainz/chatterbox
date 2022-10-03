@@ -2,6 +2,6 @@
 
 ## Functioning videos
 
-[](bot01.mov)
+https://github.com/blackrainz/chatterbox/blob/main/Bot1.mp4
 
-[](bot02.mov)
+https://github.com/blackrainz/chatterbox/blob/main/Bot2.mp4
