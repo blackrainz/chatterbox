@@ -1,7 +1,12 @@
 # Starter RoboAdvisor 
 
 ## Functioning videos
-[](https://github.com/blackrainz/chatterbox/raw/main/Videos/bot01.mov)
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/blackrainz/chatterbox/raw/main/Videos/bot01.mov" type="video/mov">
+</video>
 
-[](https://github.com/blackrainz/chatterbox/raw/main/Videos/bot02.mov)
+<video width="320" height="240" controls>
+  <source src="https://github.com/blackrainz/chatterbox/raw/main/Videos/bot02.mov" type="video/mov">
+</video>
+
