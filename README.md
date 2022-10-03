@@ -2,11 +2,6 @@
 
 ## Functioning videos
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/blackrainz/chatterbox/raw/main/bot01.mov" type="video/mov">
-</video>
+[](bot01.mov)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/blackrainz/chatterbox/raw/main/bot02.mov" type="video/mov">
-</video>
-
+[](bot02.mov)
